@@ -1,0 +1,13 @@
+void main(){
+
+  int idade1 = 12;
+  int idade2 = 13;
+  
+  if(idade1 > idade2)
+  {
+    print("A idade1 é maior");
+  }else
+  {
+    print("A idade1 é menor");
+  }
+}
